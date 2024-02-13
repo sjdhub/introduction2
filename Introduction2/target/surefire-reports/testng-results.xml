@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-13T15:54:01 EST" name="TCSuite02" finished-at="2024-02-13T15:54:01 EST" duration-ms="101">
+    <groups>
+    </groups>
+    <test started-at="2024-02-13T15:54:01 EST" name="Test02" finished-at="2024-02-13T15:54:01 EST" duration-ms="101">
+      <class name="PKG001.MyTestNGClass002">
+        <test-method signature="DemoBTC01B()[pri:0, instance:PKG001.MyTestNGClass002@6eda5c9]" started-at="2024-02-13T15:54:01 EST" name="DemoBTC01B" finished-at="2024-02-13T15:54:01 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoBTC01B -->
+      </class> <!-- PKG001.MyTestNGClass002 -->
+      <class name="PKG001.MyTestNGClass001">
+        <test-method signature="DemoTC1()[pri:0, instance:PKG001.MyTestNGClass001@1ea9f6af]" started-at="2024-02-13T15:54:01 EST" name="DemoTC1" finished-at="2024-02-13T15:54:01 EST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTC1 -->
+        <test-method signature="DemoTC2()[pri:0, instance:PKG001.MyTestNGClass001@1ea9f6af]" started-at="2024-02-13T15:54:01 EST" name="DemoTC2" finished-at="2024-02-13T15:54:01 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTC2 -->
+      </class> <!-- PKG001.MyTestNGClass001 -->
+    </test> <!-- Test02 -->
+  </suite> <!-- TCSuite02 -->
+</testng-results>
